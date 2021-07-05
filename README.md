@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Caio Maia</h1>
 <h3 align="center">A Developer starting in programming</h3>
 
-- ## 🔭 I'm intern developer at [SEAP](http://www.seap.pa.gov.br/)
+- ## 🚀  I'm intern developer at [SEAP](http://www.seap.pa.gov.br/)
 
 <p align="left">
 </p>
@@ -19,7 +19,13 @@
  <a href="https://github.com/maiasb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiasb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiasb&layout=compact&langs_count=16&theme=dracula"/>
+ <a/>
+</div>
   
+ - ## My Skills:
+  
+<div>
+ <a href="https://github.com/maiasb">
   <div style="display: inline_block">
   <img align="center" alt="Maia-.Net" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="Maia-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
@@ -32,5 +38,5 @@
   <img align="center" alt="Maia-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="Maia-GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" alt="Maia-MSSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-   </a>
+  </a>
 </div>
