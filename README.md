@@ -15,6 +15,7 @@
   </a>
  </div>
  
+- ## GitHub Stats:
 <div>
  <a href="https://github.com/maiasb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiasb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,8 +23,7 @@
  <a/>
 </div>
   
- - ## My Skills:
-  
+- ## My Skills:
 <div>
  <a href="https://github.com/maiasb">
   <div style="display: inline_block">
