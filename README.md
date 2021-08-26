@@ -13,6 +13,9 @@
   <a href = "mailto: caio.maiasb@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23E94134?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href = "https://wa.me/5591982540124">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
  </div>
  
 - ## GitHub Stats:
