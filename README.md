@@ -3,7 +3,7 @@
 
 - ## 🚀  I'm web developer at [CINBESA](http://www.cinbesa.com.br/) and intern web developer at [SEAP](http://www.seap.pa.gov.br/)
 
-- ## talk to me:
+- ## Talk to me:
  <div>
   <a href="https://www.linkedin.com/in/caio-maia-2224651bb" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
