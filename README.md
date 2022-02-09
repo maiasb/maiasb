@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Caio Maia</h1>
 <h3 align="center">A Developer starting in programming</h3>
 
-- ## 🚀  I'm web developer at [CINBESA](http://www.cinbesa.com.br/) and intern web developer at [SEAP](http://www.seap.pa.gov.br/)
+- ## 🚀  I'm web developer at [CINBESA](http://www.cinbesa.com.br/)
 
 - ## Talk to me:
  <div>
