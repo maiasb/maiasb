@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Caio Maia</h1>
+<h1 align="center">Hi, I'm Caio Maia</h1>
 
 - ## 🚀  I'm web developer at [SEAP](https://seap.ma.gov.br/)
 
