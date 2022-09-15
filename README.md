@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Caio Maia</h1>
 
-- ## 🚀  I'm web developer at [SEAP](https://seap.ma.gov.br/)
+- ## 🚀  I'm web developer at [Wing Solutions](https://www.wing.solutions/) and [SEAP](https://seap.ma.gov.br/).
 
 - ## Talk to me:
  <div>
