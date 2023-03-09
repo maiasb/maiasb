@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Caio Maia</h1>
-
 - ## 🚀  I'm web developer at [Wing Solutions](https://www.wing.solutions/).
 
 - ## Talk to me:
