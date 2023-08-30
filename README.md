@@ -1,5 +1,3 @@
-- ## 🚀  I'm web developer at [Wing Solutions](https://www.wing.solutions/).
-
 - ## Talk to me:
  <div>
   <a href="https://www.linkedin.com/in/caio-maia-2224651bb" target="_blank">
