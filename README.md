@@ -1,6 +1,6 @@
 - ## Talk to me:
  <div>
-  <a href="https://www.linkedin.com/in/caio-maia-2224651bb" target="_blank">
+  <a href="https://www.linkedin.com/in/maiasb" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href = "mailto: caio.maiasb@gmail.com" target="_blank">
